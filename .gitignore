@@ -1,0 +1,9 @@
+.hg
+.hgignore
+.svn
+.svn/
+*.swp
+*~
+.DS_Store
+*.bak
+#uploaded/*
